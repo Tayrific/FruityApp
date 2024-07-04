@@ -1,0 +1,1 @@
+Apple: 24,Banana: 15,Grapes: 10,Cherry: 10,Melon: 5,Mango: 12,Kiwi: 6,Red Grapes: 2,Strawberries: 30,Peach: 13,string,cat: 15, 
